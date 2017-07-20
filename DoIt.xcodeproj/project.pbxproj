@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F19940DD1F201C7C009B64FE /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19940DC1F201C7C009B64FE /* Task.swift */; };
 		F19940DF1F2022C2009B64FE /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19940DE1F2022C2009B64FE /* CreateTaskViewController.swift */; };
 		F1A581221F2166470031C571 /* CompleteTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A581211F2166470031C571 /* CompleteTaskViewController.swift */; };
 		F1EE24EE1F1EE35F00AE457D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1EE24ED1F1EE35F00AE457D /* AppDelegate.swift */; };
@@ -19,7 +18,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F19940DC1F201C7C009B64FE /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		F19940DE1F2022C2009B64FE /* CreateTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
 		F1A581211F2166470031C571 /* CompleteTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteTaskViewController.swift; sourceTree = "<group>"; };
 		F1EE24EA1F1EE35F00AE457D /* DoIt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoIt.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -66,7 +64,6 @@
 				F1EE24EF1F1EE35F00AE457D /* TasksViewController.swift */,
 				F19940DE1F2022C2009B64FE /* CreateTaskViewController.swift */,
 				F1A581211F2166470031C571 /* CompleteTaskViewController.swift */,
-				F19940DC1F201C7C009B64FE /* Task.swift */,
 				F1EE24F11F1EE35F00AE457D /* Main.storyboard */,
 				F1EE24F71F1EE35F00AE457D /* Assets.xcassets */,
 				F1EE24F91F1EE35F00AE457D /* LaunchScreen.storyboard */,
@@ -148,7 +145,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F19940DD1F201C7C009B64FE /* Task.swift in Sources */,
 				F1EE24F61F1EE35F00AE457D /* DoIt.xcdatamodeld in Sources */,
 				F1A581221F2166470031C571 /* CompleteTaskViewController.swift in Sources */,
 				F1EE24F01F1EE35F00AE457D /* TasksViewController.swift in Sources */,
